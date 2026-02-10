@@ -6,7 +6,7 @@ I create developer tools, WordPress products, and SaaS platforms. My work has to
 
 ## What I'm Building
 
-- **[Popup Maker](https://wppopupmaker.com)** — The most widely adopted popup & conversion toolkit for WordPress
+- **[Popup Maker](https://wppopupmaker.com)** [[Github](https://github.com/PopupMaker/Popup-Maker)]— The most widely adopted popup & conversion toolkit for WordPress
 - **[Content Control](https://github.com/code-atlantic/content-control)** — Granular content restriction & access control for WordPress
 - **[Codemode](https://github.com/danieliser/codemode-unified)** — Local-first AI orchestration with protocol-agnostic support for MCP, OpenAPI, and native tools
 - **[MCP Adapters](https://github.com/code-atlantic/mcp-adapters)** — Bidirectional AI integration for WordPress via Model Context Protocol
