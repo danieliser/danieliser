@@ -1,8 +1,8 @@
 # Daniel Iser
 
-**Founder & Lead Engineer at [Code Atlantic](https://github.com/code-atlantic)** — building software that powers billions of interactions across the web.
+**Founder & Lead Engineer at [Code Atlantic](https://github.com/code-atlantic)** — building WordPress products, developer tools, and SaaS platforms.
 
-I create developer tools, WordPress products, and SaaS platforms. **Popup Maker** is active on **700,000+ WordPress installations** and has served **31.5B+ popup views**. Across Popup Maker, Content Control, and User Menus, Code Atlantic products are active on **800,000+ installations**.
+I create developer tools, WordPress products, and SaaS platforms. **Popup Maker** is active on **700,000+ WordPress installations**. Across Popup Maker, Content Control, and User Menus, Code Atlantic products are active on **800,000+ installations**.
 
 ## What I'm Building
 
